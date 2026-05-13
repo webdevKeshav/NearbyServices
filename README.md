@@ -1,4 +1,4 @@
-# ServeNear 🔧
+# NearbyServices 🔧
 
 > **Book trusted local services in minutes.**  
 > Full-stack MERN application with User & Provider roles, real-time booking, image uploads, JWT auth, and geolocation-based search.
@@ -8,7 +8,7 @@
 ## 📁 Project Structure
 
 ```
-servenear/
+NearbyServices/
 ├── client/                        # React + Vite frontend
 │   ├── public/
 │   │   └── favicon.svg
